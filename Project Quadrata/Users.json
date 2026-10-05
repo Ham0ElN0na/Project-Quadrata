@@ -1,0 +1,49 @@
+{
+    "Admins": {
+        "admin": {
+            "AdminLevel": 3,
+            "Department": "All",
+            "Password": "1234",
+            "Username": "admin"
+        },
+        "admin2": {
+            "AdminLevel": 1,
+            "Department": "IT",
+            "Password": "777778",
+            "Username": "admin2"
+        }
+    },
+    "Clients": {
+        "Mazen": {
+            "Age": 21,
+            "Balance": 1461.75,
+            "Email": "maxo@gmail.com",
+            "History": [
+            ],
+            "LoyaltyPoints": 537,
+            "Password": "1234",
+            "name": "Mazen Mohamed"
+        },
+        "Mody": {
+            "Age": 18,
+            "Balance": 867.75,
+            "Email": "mody@gmail.com",
+            "History": [
+                "Booked Flight to Morroco  ·  $127.50  ·  18 May 2026  03:28"
+            ],
+            "LoyaltyPoints": 174,
+            "Password": "lol",
+            "name": "Mohamed Saad"
+        },
+        "lol": {
+            "Age": 18,
+            "Balance": 400,
+            "Email": "lol@gmail.com",
+            "History": [
+            ],
+            "LoyaltyPoints": 0,
+            "Password": "lol",
+            "name": "lol"
+        }
+    }
+}

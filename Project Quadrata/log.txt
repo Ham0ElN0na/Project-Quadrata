@@ -1,0 +1,473 @@
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: Customer mazen logged in successfully.
+[WARNING]: Session for user 2 will expire in 30 seconds.
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin2
+[INFO]: Admin admin2 logged in successfully.
+[WARNING]: Session number 1 will expire in 30 seconds.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin2
+[INFO]: Admin admin2 logged in successfully.
+[WARNING]: Session number 15133 for user admin2 will expire in 30 seconds.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin2
+[WARNING]: Session number 21494 for user admin2 will expire in 30 seconds.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 24577
+[INFO]: Session number 24577 for user admin has expired.
+[INFO]: User admin logged out. Session token was 24577
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 24874
+[WARNING]: Session number 24874 for user admin will expire in 30 seconds.
+[INFO]: Admin admin added inventory item admin
+[INFO]: Admin admin removed inventory item admin
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 29622
+[WARNING]: Session number 29622 for user mazen will expire in 30 seconds.
+[INFO]: User mazen logged out. Session token was 29622
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 30161
+[INFO]: Customer data retrieved for userName: mazen
+[WARNING]: Session number 30161 for user mazen will expire in 30 seconds.
+[INFO]: User mazen logged out. Session token was 30161
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 30961
+[WARNING]: Session number 30961 for user mazen will expire in 30 seconds.
+[INFO]: User mazen logged out. Session token was 30961
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 31448
+[WARNING]: Session number 31448 for user mazen will expire in 30 seconds.
+[INFO]: User mazen logged out. Session token was 31448
+System started up.
+[ERROR]: Couldn't save client with userName ( mazen ), because it already exists.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 33077
+[INFO]: Customer data retrieved for userName: mazen
+[INFO]: User mazen logged out. Session token was 33077
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 2370
+[INFO]: User mazen logged out. Session token was 2370
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 2814
+System started up.
+[INFO]: Client with userName ( mohamed ) was saved successfully.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mohamed
+[INFO]: User mohamed logged in. Session token is 3963
+[INFO]: User mohamed logged out. Session token was 3963
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mohamed
+[INFO]: User mohamed logged in. Session token is 4466
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 4907
+[INFO]: Customer data retrieved for userName: mazen
+[INFO]: User mazen logged out. Session token was 4907
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mohamed
+[INFO]: User mohamed logged in. Session token is 4979
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mohamed
+[INFO]: User mohamed logged in. Session token is 5328
+System started up.
+[INFO]: Client with userName ( ahmed ) was saved successfully.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: ahmed
+[INFO]: User ahmed logged in. Session token is 5416
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 6053
+[INFO]: Customer data retrieved for userName: mazen
+[INFO]: User mazen logged out. Session token was 6053
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: ahmed
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: ahmed
+[INFO]: User ahmed logged in. Session token is 6974
+[INFO]: Customer data retrieved for userName: ahmed
+[INFO]: Customer data retrieved for userName: ahmed
+[WARNING]: Session number 6974 for user ahmed will expire in 30 seconds.
+[INFO]: Session number 6974 for user ahmed has expired.
+[INFO]: User ahmed logged out. Session token was 6974
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mohamed
+[INFO]: User mohamed logged in. Session token is 14168
+[INFO]: Customer data retrieved for userName: mohamed
+[INFO]: Customer data retrieved for userName: mohamed
+[INFO]: User mohamed logged out. Session token was 14168
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: ahmed
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: ahmed
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 29983
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 30437
+System started up.
+[INFO]: Client with userName ( mazen2 ) was saved successfully.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 30496
+[INFO]: Customer data retrieved for userName: mazen2
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 31051
+[INFO]: User mazen2 logged out. Session token was 31051
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 31270
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 31753
+[INFO]: Customer data retrieved for userName: mazen2
+[INFO]: Customer data retrieved for userName: mazen2
+[INFO]: User mazen2 logged out. Session token was 31753
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 4779
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 4971
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 5970
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 6189
+[INFO]: Admin admin added inventory item flight001
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 6784
+[INFO]: Admin admin added inventory item flight025
+[INFO]: Admin admin removed inventory item 1
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 7130
+[INFO]: Admin admin added inventory item 025
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 7796
+[INFO]: Admin admin updated inventory item 025
+[INFO]: Admin admin added inventory item 024
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 8309
+[INFO]: Admin admin updated inventory item 024
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 8544
+[INFO]: Customer data retrieved for userName: mazen2
+[INFO]: User mazen2 logged out. Session token was 8544
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen2
+[INFO]: User mazen2 logged in. Session token is 9203
+[INFO]: Customer data retrieved for userName: mazen2
+[INFO]: Customer data retrieved for userName: mazen2
+[INFO]: User mazen2 logged out. Session token was 9203
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: mazen
+[INFO]: User mazen logged in. Session token is 11293
+System started up.
+[INFO]: Client with userName ( Mazen ) was saved successfully.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 11509
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 11509
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 12541
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 12822
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 12822
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 13573
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Admin with ID ( Mazen ) not found in file: Users.json
+[WARNING]: Admin with ID ( Mazen ) failed to log in.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 13994
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 13994
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 14131
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 14131
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 14997
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 14997
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 18592
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 18592
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 19627
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 19627
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for admin: admin
+[INFO]: User admin logged in. Session token is 20303
+[INFO]: Admin admin updated inventory item 024
+[INFO]: User admin logged out. Session token was 20303
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 20558
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INVENTORY] Booked item with ID: 024
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 20558
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 21165
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INVENTORY] Booked item with ID: 024
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 21165
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 21920
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INVENTORY] Booked item with ID: 024
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 21920
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 22622
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INVENTORY] Booked item with ID: 024
+[INFO]: User Mazen logged out. Session token was 22622
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Admin with ID ( Mazen ) not found in file: Users.json
+[WARNING]: Admin with ID ( Mazen ) failed to log in.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 22778
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 22778
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: Application exited by user.
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( 10000 ) not found in file: Users.json
+System started up.
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( 1 ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 6314
+[INFO]: Customer data retrieved for userName: Mazen
+[INVENTORY] Booked item with ID: 024
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+System started up.
+System started up.
+[INFO]: User attempted to log in.
+[WARNING]: Session number 6314 for user Mazen will expire in 30 seconds.
+[INFO]: Session number 6314 for user Mazen has expired.
+[INFO]: User Mazen logged out. Session token was 6314
+System started up.
+[INFO]: User attempted to log in.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: deebo
+[INFO]: User deebo logged in. Session token is 10201
+[INFO]: Customer data retrieved for userName: deebo
+[INVENTORY] Booked item with ID: flight001
+[INFO]: Customer data retrieved for userName: deebo
+System started up.
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deboo ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( Mazen ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: deebo
+[INFO]: User deebo logged in. Session token is 20588
+[INFO]: Customer data retrieved for userName: deebo
+[WARNING]: Session number 20588 for user deebo will expire in 30 seconds.
+[INFO]: Session number 20588 for user deebo has expired.
+[INFO]: User deebo logged out. Session token was 20588
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: deebo
+[INFO]: User deebo logged in. Session token is 20980
+[INFO]: Customer data retrieved for userName: deebo
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+[WARNING]: Session number 20980 for user deebo will expire in 30 seconds.
+[INFO]: User deebo logged out. Session token was 20980
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: deebo
+[INFO]: User deebo logged in. Session token is 23573
+[INFO]: Customer data retrieved for userName: deebo
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: deebo
+[INFO]: User deebo logged in. Session token is 23923
+[INFO]: Customer data retrieved for userName: deebo
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+[INFO]: User deebo logged out. Session token was 23923
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( deebo ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 31260
+[INFO]: Customer data retrieved for userName: Mazen
+[ERROR]: Client with userName ( Mazen ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[ERROR]: Client with userName ( Mazen ) not found in file: Users.json
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 32834
+[INFO]: Customer data retrieved for userName: Mazen
+[ERROR]: Failed to read file: Users.json
+[INFO]: User Mazen logged out. Session token was 32834
+System started up.
+[INFO]: User attempted to log in.
+System started up.
+System started up.
+[INFO]: User attempted to log in.
+System started up.
+[INFO]: User attempted to log in.
+[INFO]: Password retrieved for customer: Mazen
+[INFO]: User Mazen logged in. Session token is 6934
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: Customer data retrieved for userName: Mazen
+[INFO]: User Mazen logged out. Session token was 6934

@@ -1,0 +1,39 @@
+{
+    "Inventory": [
+        {
+            "available": 9,
+            "destination": "Paris",
+            "id": "flight001",
+            "price": 50,
+            "type": "Flight"
+        },
+        {
+            "available": 4,
+            "destination": "London",
+            "id": "flight025",
+            "price": 150,
+            "type": "Flight"
+        },
+        {
+            "available": 4,
+            "destination": "Tokyo",
+            "id": "025",
+            "price": 350,
+            "type": "Flight"
+        },
+        {
+            "available": 20,
+            "destination": "Cairo",
+            "id": "024",
+            "price": 25,
+            "type": "Hotel"
+        },
+        {
+            "available": 4,
+            "destination": "Morroco",
+            "id": "flight026",
+            "price": 150,
+            "type": "Flight"
+        }
+    ]
+}

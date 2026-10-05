@@ -1,0 +1,8 @@
+﻿  BookingProcessor.cpp
+  PricingEngine&Discount&Cancel.cpp
+  UI.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2372 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project Quadrata.vcxproj -> C:\Users\LOQ\Desktop\c++\project qudrata\Project Quadrata\x64\Release\Project Quadrata.exe
